@@ -1,0 +1,16 @@
+# Local financial records and working files
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.pdf
+*.zip
+*.bak
+*.backup.json
+*.db
+*.sqlite
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
